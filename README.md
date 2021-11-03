@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![KingsleyYau's GitHub stats](https://github-readme-stats.vercel.app/api?username=这里替换成你的 GitHub ID)](https://github.com/anuraghazra/github-readme-stats)
-![Metrics](https://metrics.lecoq.io/KingsleyYau?template=classic&config.timezone=Asia%2FShanghai)
+[![KingsleyYau's GitHub stats](https://github-readme-stats.vercel.app/api?username=KingsleyYau)](https://github.com/anuraghazra/github-readme-stats)
+
+![Metrics](https://metrics.lecoq.io/KingsleyYau?template=classic&base.activity=0&base.community=0&base.metadata=0&config.timezone=Asia%2FShanghai)
+
 ![KingsleyYau's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=KingsleyYau&show_icons=true&count_private=true&theme=gotham)
